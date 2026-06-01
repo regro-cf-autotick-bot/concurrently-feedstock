@@ -1,5 +1,5 @@
 context:
-  version: "9.2.1"
+  version: "10.0.1"
 
 package:
   name: concurrently
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/concurrently/-/concurrently-${{ version }}.tgz
-  sha256: 5e2610a97b8da4fe42c5e710fdeac01dec965a7b1c8a0ff4980308a4774135f6
+  sha256: 747ae53f60c390767e7bbf7a5154ffdd8aadaa83f3ef1325607a916852944a91
 
 build:
   number: 0
